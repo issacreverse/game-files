@@ -173,6 +173,8 @@ public:
 				target->torpedoGate = false;
 				break;
 			case 5:
+				cout << "we hit an empty room" << endl;
+				Sleep(1500);
 				break;
 			case 6:
 				cout << target->shipName << "'s Radio System is Damaged!" << endl;
