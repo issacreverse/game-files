@@ -6,4 +6,8 @@
 //Supports half-wise multiplayer 
 //This thing reminds me of Faster Than Light 
 //Enjoy 
-//>>Target Locked<<
+//
+//RECOMMENDED SETTINGS
+//diceVal => set to '7'
+//hitpoints => set to '50'~'100' (note that default torpedo damage is 10)
+
